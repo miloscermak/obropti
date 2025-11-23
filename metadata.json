@@ -1,0 +1,5 @@
+{
+  "name": "Web Image Optimizer",
+  "description": "Jednoduchá aplikace pro optimalizaci velkých obrázků na webovou velikost (cca 300 KB) s možností generování AI popisů.",
+  "requestFramePermissions": []
+}
